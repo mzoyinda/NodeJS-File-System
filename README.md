@@ -1,6 +1,8 @@
 ## NodeJS File System (index.js)
 
-<img src="images/node.png" alt="index image">
+![index image](https://github.com/mzoyinda/NodeJS-File-System/blob/main/images/node.PNG?raw=true)
+
 
 ## NodeJS File System (posts.json)
-<img src="images/json.png" alt="json object image">
+![json image](https://github.com/mzoyinda/NodeJS-File-System/blob/main/images/json.PNG?raw=true)
+
