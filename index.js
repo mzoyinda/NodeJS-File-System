@@ -12,7 +12,7 @@ const getData = async(url) => {
         const Posts = await response.json();
 
         //write fetched data to a file
-        fs.writeFile('posts.json', JSON.stringify(Posts, null, 2), 'utf8', function (err) {
+        fs.writeFile('result/posts.json', JSON.stringify(Posts, null, 2), 'utf8', function (err) {
             if (err) {
                 return console.log(err);
             }
