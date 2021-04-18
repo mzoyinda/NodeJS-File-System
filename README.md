@@ -1,6 +1,6 @@
 ## NodeJS File System (index.js)
 
-<img src="./images/node.PNG" alt="index.js image">
+<img src="images/node.png" alt="index image">
 
 ## NodeJS File System (posts.json)
-<img src="./images/json.PNG" alt="json object image">
+<img src="images/json.png" alt="json object image">
